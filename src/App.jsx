@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import './src/App.css'
 
 const BUSINESS_TYPES = [
   'restaurant',
